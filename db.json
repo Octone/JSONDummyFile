@@ -1,0 +1,24 @@
+{
+	"trailer": [
+		{
+			"id" : 1,
+			"data": [
+				{
+					"title": Robot,
+					"URL": "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4"
+					"description": "Bunny Adventure in Magical Island"
+				}
+			]
+		},
+		{
+			"id" : 2,
+			"data": [
+				{
+					"title": Kelinci,
+					"URL": "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4"
+					"description": "Petualangan Kelinci di pulau terpencil"
+				}
+			]
+		}
+	]
+}
