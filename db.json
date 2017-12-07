@@ -3,13 +3,17 @@
 		{
 			"id" : 1,
 			"title": "Robot",
+			"thumbnail": "",
 			"URL": "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"schedule": "",
 			"description": "Bunny Adventure in Magical Island"
 		},
 		{
 			"id" : 2,
 			"title": "Kelinci",
+			"thumbnail": "",
 			"URL": "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"schedule": "",
 			"description": "Petualangan Kelinci di pulau terpencil"
 		}
 	]
