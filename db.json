@@ -3,7 +3,7 @@
 		{
 			"id" : 1,
 			"title": "Robot",
-			"thumbnail": "",
+			"thumbnail": "https://via.placeholder.com/1920x1080",
 			"URL": "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4",
 			"schedule": "",
 			"description": "Bunny Adventure in Magical Island"
@@ -11,7 +11,7 @@
 		{
 			"id" : 2,
 			"title": "Kelinci",
-			"thumbnail": "",
+			"thumbnail": "https://via.placeholder.com/1280x720",
 			"URL": "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4",
 			"schedule": "",
 			"description": "Petualangan Kelinci di pulau terpencil"
