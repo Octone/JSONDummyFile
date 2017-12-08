@@ -2,18 +2,18 @@
 	"trailer": [
 		{
 			"id" : 1,
-			"title": "Robot",
+			"title": "SAMPLE1",
 			"thumbnail": "https://via.placeholder.com/1920x1080",
-			"URL": "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4",
-			"schedule": "",
+			"URL": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4",
+			"schedule": "SCHEDULE PLACEHOLDER",
 			"description": "Bunny Adventure in Magical Island"
 		},
 		{
 			"id" : 2,
-			"title": "Kelinci",
+			"title": "SAMPLE2",
 			"thumbnail": "https://via.placeholder.com/1280x720",
 			"URL": "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4",
-			"schedule": "",
+			"schedule": "PLACEHOLDER SCHEDULE",
 			"description": "Petualangan Kelinci di pulau terpencil"
 		}
 	]
