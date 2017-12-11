@@ -1,20 +1,82 @@
 {
-	"trailer": [
+	"DATA":[
 		{
-			"id" : 1,
-			"title": "SAMPLE1",
-			"thumbnail": "https://via.placeholder.com/1920x1080",
-			"URL": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4",
-			"schedule": "SCHEDULE PLACEHOLDER",
-			"description": "Bunny Adventure in Magical Island"
-		},
-		{
-			"id" : 2,
-			"title": "SAMPLE2",
-			"thumbnail": "https://via.placeholder.com/1280x720",
-			"URL": "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4",
-			"schedule": "PLACEHOLDER SCHEDULE",
-			"description": "Petualangan Kelinci di pulau terpencil"
+			"ID":"AX1",
+			"LAYOUT":"L1",
+			"CONTENT":[
+				{
+					"DATE":"12/12/2017",
+					"START":"13.00",
+					"END":"14.00",
+					"PRIORITY":"NORMAL",
+					"URL":"",
+					"TYPE":"IMAGE"
+				},
+				{
+					"DATE":"12/12/2017",
+					"START":"13.00",
+					"END":"15.00",
+					"PRIORITY":"NORMAL",
+					"URL":"",
+					"TYPE":"IMAGE"
+				},
+				{
+					"DATE":"12/12/2017",
+					"START":"13.00",
+					"END":"15.00",
+					"PRIORITY":"NORMAL",
+					"URL":"",
+					"TYPE":"IMAGE"
+				},
+				{
+					"DATE":"12/12/2017",
+					"START":"15.00",
+					"END":"16.00",
+					"PRIORITY":"HIGH",
+					"URL":"",
+					"TYPE":"IMAGE"
+				},
+				{
+					"DATE":"12/12/2017",
+					"START":"15.00",
+					"END":"16.00",
+					"PRIORITY":"HIGH",
+					"URL":"",
+					"TYPE":"IMAGE"
+				},
+				{
+					"DATE":"12/12/2017",
+					"START":"13.00",
+					"END":"14.00",
+					"PRIORITY":"LOW",
+					"URL":"",
+					"TYPE":"IMAGE"
+				},
+				{
+					"DATE":"12/12/2017",
+					"START":"13.00",
+					"END":"14.00",
+					"PRIORITY":"LOW",
+					"URL":"",
+					"TYPE":"IMAGE"
+				},
+				{
+					"DATE":"13/12/2017",
+					"START":"13.00",
+					"END":"14.00",
+					"PRIORITY":"LOW",
+					"URL":"",
+					"TYPE":"IMAGE"
+				},
+				{
+					"DATE":"13/12/2017",
+					"START":"13.00",
+					"END":"14.00",
+					"PRIORITY":"LOW",
+					"URL":"",
+					"TYPE":"IMAGE"
+				}
+			]
 		}
 	]
 }
